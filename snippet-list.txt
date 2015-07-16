@@ -30,6 +30,7 @@ csf     Create scalar function
 ct      Create a table
 ctf     Create table-valued function
 ctr     Commit transaction
+ctt     Check for temp table and drop if exists
 cu      Create a database user
 cuci    Create unique clustered index
 cuni    Create unique nonclustered index
